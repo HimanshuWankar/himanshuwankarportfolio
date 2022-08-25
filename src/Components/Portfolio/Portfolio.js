@@ -55,7 +55,7 @@ export default function Portfolio() {
                         <div className="project-details">
                             <h3>React portfolio </h3>
                             <h4>Persoanl portfolio using react</h4>
-                            <a href="https://github.com/HimanshuWankar/Property-prediction"  className="repo-btn">Repo Link</a>
+                            <a href="https://github.com/HimanshuWankar/himanshuwankarportfolio"  className="repo-btn">Repo Link</a>
                         </div>
                     </div>
 
