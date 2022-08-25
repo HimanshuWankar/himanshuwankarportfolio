@@ -18,7 +18,7 @@ export default function Resume() {
 
                                     <div>
                                         <div className="work-flex">
-                                            <div className="flex-edu ">  <span className="college-name">Data Science Project </span>
+                                            <div className="flex-edu ">  <span className="college-name">Project Domain : Data Science </span>
                                                 <span className="passing-year">2021-2022</span>
                                             </div>
                                             <h4>Housing Property price prediction </h4>
@@ -26,7 +26,7 @@ export default function Resume() {
                                 
 
                                         <div className="margin2top work-flex2">
-                                            <div className="flex-edu ">  <span className="college-name">Data Science Project </span>
+                                            <div className="flex-edu ">  <span className="college-name">Project Domain : Data Science </span>
                                                 <span className="passing-year">2019-2020</span>
                                             </div>
                                             <h4>Dockless bicycle reallocation based on Data Analyis</h4>

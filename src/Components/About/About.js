@@ -28,15 +28,15 @@ export default function About() {
                     <div className="skills-home">
                         <h2 className="about-heading" id="About">About Me</h2>
                         <p className="about-data">
-                            I'm a Data Scientist & front-end developer with professional certification 
+                            I'm a Data Scientist ehthusiast & front-end developer with professional certification 
                             training. I'm interested in Machine learning, Neural Netwoks, Aritficial Intellegence 
                             but
-                            my major focus is on Data Analysis, Data Visualization & Data Transformation.I
+                            my major focus is on Front-end development, Data Analysis, Data Visualization & Data Transformation.I
                             also have skills in other fields like Web Designing, Hosting web-sites and handeling both Relation and Non-relational databases.
                         </p>
                         <p className="about-data">
                             I enjoy turning complex data into simple, beautiful and
-                            intuitive and actionable visualizations.When I'm not playing with data, you'll find me
+                            intuitive and actionable visualizations and web designs.When I'm not playing with data, you'll find me
                             cooking, swimming or sketching.
                         </p>
                         <p className="about-data">

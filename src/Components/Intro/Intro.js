@@ -17,7 +17,7 @@ export default function Intro() {
                         </div>
 
                         <div className="intro-tagline">
-                            A Data Science Enthusiast
+                            A Data Science Enthusiast 
                         </div>
 
                         <p>Get ready to transform your raw data into meaningful insights</p>
