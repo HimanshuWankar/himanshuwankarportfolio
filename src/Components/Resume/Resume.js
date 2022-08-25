@@ -29,7 +29,7 @@ export default function Resume() {
                                             <div className="flex-edu ">  <span className="college-name">Data Science Project </span>
                                                 <span className="passing-year">2019-2020</span>
                                             </div>
-                                            <h4>Dockless bicycle reallocation based on data analyis</h4>
+                                            <h4>Dockless bicycle reallocation based on Data Analyis</h4>
                                         </div>
                                     </div>
 
@@ -94,7 +94,7 @@ export default function Resume() {
 
                             <a className="link" target="_blank" href="mailto:wankarhimanshu9@gmail.com"><i
                                 className="fas social-icons fa-envelope "></i></a>
-                            <a className="link" target="_blank" href="https://www.linkedin.com/in/himanshu-wankar-958399169/"><i
+                            <a className="link" target="_blank" href="https://www.linkedin.com/in/himanshuwankar/"><i
                                 className="fab social-icons fa-linkedin-in"></i></a>
                         </div>
 
