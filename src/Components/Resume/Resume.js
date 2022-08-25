@@ -67,7 +67,7 @@ export default function Resume() {
 
 
                                     <div className="work-flex" >
-                                        <div className="flex-edu ">  <span className="college-name">Telanana Board</span>
+                                        <div className="flex-edu ">  <span className="college-name">Telangana Board</span>
                                             <span className="passing-year">2016-2018</span>
                                         </div>
                                         <h4>intermediate public education </h4>
