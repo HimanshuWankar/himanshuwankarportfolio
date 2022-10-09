@@ -13,11 +13,11 @@ export default function Intro() {
                 <div className="intro-flex">
                     <div className="intro-div">
                         <div className="name-intro">
-                            Hi, I am Pratiksha Dasgaonkar
+                            Hi, I am Himanshu Wankar
                         </div>
 
                         <div className="intro-tagline">
-                            A web Developer
+                            A Data Science Enthusiast
                         </div>
 
                         <p>Get ready to transform your raw data into meaningful insights</p>
