@@ -22,7 +22,7 @@ export default function Intro() {
 
                         <p>Get ready to transform your raw data into meaningful insights</p>
                         <div className="buttonshire">   <span className="hire-me-btn"> <a href="#Contact" >Hire Me</a></span>
-                        <span className="resume-btn"><a href="https://drive.google.com/file/d/1p6T4gD4JbIeatZEdb3gC83OQ2zM7X7c4/view?usp=sharing" >Get Resume</a></span> </div>
+                        <span className="resume-btn"><a href="https://drive.google.com/file/d/1efDRUemDBMWHfpzinYJ88yz8gPORDtO-/view?usp=drive_link" >Get Resume</a></span> </div>
 
                         
                     </div>

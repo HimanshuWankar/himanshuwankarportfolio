@@ -31,7 +31,7 @@ class Contact extends Component {
 
                         <div className="contacts-icons">
                             {" "}
-                            <i className="fas contacts-icon fa-phone-alt"></i> +91 8010038906
+                            <i className="fas contacts-icon fa-phone-alt"></i> +91 7083084622
                         </div>
 
                         <div className="contacts-icons">
@@ -72,7 +72,7 @@ class Contact extends Component {
                 </div>
                 <div className="footer-area">
 
-                    © 2022 Himanshu Wankar All rights reserved.
+                    © 2024 Himanshu Wankar All rights reserved.
                 </div>
             </>
         );
